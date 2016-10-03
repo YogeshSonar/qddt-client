@@ -37,3 +37,5 @@ dev
 lib
 test
 tools/typings/tsd
+typings
+.vscode
